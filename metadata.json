@@ -1,0 +1,6 @@
+{
+  "name": "Malawi Arcade",
+  "description": "Play Malawi. Live the Adventure. A cinematic 3D-inspired Malawian mobile gaming universe featuring five complete campaign worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
